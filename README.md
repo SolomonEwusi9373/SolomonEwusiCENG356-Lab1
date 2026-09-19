@@ -76,10 +76,10 @@ lab1.exe
 ## Screenshots
 
 ### Running results on onlinegdb.com (64-bit environment)
-*(add screenshot here)*
+![onlinegdb results](screenshots/lab1_onlinegdb_result.png)
 
 ### Running results on local PC (32-bit MinGW environment)
-*(add screenshot here)*
+![local PC results](screenshots/lab1_localpc_result.png)
 
 ---
 
